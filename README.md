@@ -2,3 +2,5 @@
 
 这是《印象》的电子杂志网页
 基于`Flip HTML5`构建
+
+[http://yx.whisper.ink/book/](http://yx.whisper.ink/book/)
